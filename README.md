@@ -5,7 +5,7 @@ An Epilator landing page
 
 ![Product Landing Page](https://res.cloudinary.com/dytnpjxrd/image/upload/v1617069563/My%20Website%20Projects/epilators_bwgl6o.png)
 
-This is a simple web application web application project mainly to practice my HTML5 and CSS3 skills. This page talks about a man who lived an exemplary life worth emulating. Have a good read guys!!!
+This is a simple web application web application project mainly to practice my HTML5 and CSS3 skills.
 
 <br>
 
