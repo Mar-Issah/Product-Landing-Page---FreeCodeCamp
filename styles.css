@@ -25,6 +25,11 @@ a {
 	font-size: 1rem;
 	font-weight: bold;
 	background-color: #f1c40f;
+	transition: all 0.5s ease-in-out;
+}
+
+.btn:hover{
+	background-color: #fff;
 }
 
 ul {
@@ -33,7 +38,6 @@ ul {
 }
 
 /* header */
-
 .header-container {
 	display: flex;
 	justify-content: space-between;
@@ -65,16 +69,18 @@ ul {
 #form {
 	display: flex;
 	flex-direction: column;
+
 }
 
 input[type="email"] {
 	max-width: 250px;
 	width: 100%;
-	padding: 5px;
+	padding: 0.725rem;
+	border-radius: 0.5rem;
+	outline: transparent !important;
 }
 
 /* features */
-
 .container {
 	max-width: 1000px;
 	width: 100%;
